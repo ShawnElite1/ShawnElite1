@@ -9,10 +9,10 @@ p {
 
 .header {
   height: 100px;
-  background-color: #1E6AE4;
+  background-color: #00FFE6;
   border-style: solid;
   text-align: center;
-  text-color: red;
+  text-color: blue;
 }
 
 .container{
@@ -28,7 +28,7 @@ a {
 }
 
 .nav{
-  background-color:#FFFE00;
+  background-color:#0057FF;
   width:180px;
   float: right;
   height: 700px;
@@ -42,7 +42,7 @@ a {
 }
 
 .content{
-  background-color: white;
+  background-color: yellow;
   padding: 10px;
   float: center;
 }
