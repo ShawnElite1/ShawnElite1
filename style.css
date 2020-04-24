@@ -12,7 +12,7 @@ p {
   background-color: #1E6AE4;
   border-style: solid;
   text-align: center;
-  text-color: blue;
+  text-color: red;
 }
 
 .container{
@@ -30,7 +30,7 @@ a {
 .nav{
   background-color:#FFFE00;
   width:180px;
-  float: left;
+  float: right;
   height: 700px;
   border-left: solid;
   border-right: solid;
@@ -44,12 +44,12 @@ a {
 .content{
   background-color: white;
   padding: 10px;
-  float: right;
+  float: center;
 }
 
 .footer{
   background-color: #E1E1E1;
-  text-align: right;
+  text-align: left;
   clear: both;
   border: solid;
 }
